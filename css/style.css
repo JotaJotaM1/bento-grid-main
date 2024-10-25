@@ -215,7 +215,7 @@ main {
 
     .grid-container {
         max-width: 1100px;
-        height: 800px;
+        height: 830px;
         grid-template-rows: repeat(10, minmax(0, 1fr));
         grid-template-columns: repeat(4, minmax(0, 1fr));
     }
@@ -239,7 +239,7 @@ main {
         width: 300px;
     }
     .manage-accounts p {
-        font-size: 29px;
+        font-size: 30px;
     }
 
     .maintain-schedule {
