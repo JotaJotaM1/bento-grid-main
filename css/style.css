@@ -312,6 +312,9 @@ main {
         grid-column: 1 / 2;
         grid-row: 1 / 6;
     }
+    .create-post img {
+        width: 80%;
+    }
 
     .ai-content {
         grid-column: 1 / 2;
